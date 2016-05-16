@@ -53,6 +53,10 @@ Today we see that they were only going to win." -- [Nicolás Gómez Dávila](htt
 
 ### CP-6
 
+## HP
+
+### MPE
+
 ## IBM
 
 ### MVS
@@ -77,6 +81,14 @@ Today we see that they were only going to win." -- [Nicolás Gómez Dávila](htt
 
 ### PRIMOS
 
+## Stratus
+
+### VOS
+
+## Tandem
+
+### NonStop
+
 
 ## Univac / Sperry Rand / Unisys
 
@@ -85,6 +97,19 @@ Today we see that they were only going to win." -- [Nicolás Gómez Dávila](htt
 ### CP-6
 
 ### VS/9
+
+## S/360 other
+
+### MTS
+
+### Music/SP
+
+
+## Wang
+
+### VS
+
+
 
 
 ## Xerox Data Systems / SDS
