@@ -30,6 +30,10 @@ Today we see that they were only going to win." -- [Nicolás Gómez Dávila](htt
 
 ### VMS
 
+*Computer Programming and Architecture - The VAX-11* - ISBN 093237607X
+
+*Engineering a Compiler - VAX-11 Code Generation and Optimization* - ISBN 0932376193
+
 [VAX/VMS Internals and Data Structures Version 4.4](http://bitsavers.trailing-edge.com/pdf/dec/vax/vms/training/EY-2279E-UP-0001_VAX_VMS_Internals_Version_4.4_Update_Mar86.pdf)
 
 [VAX/VMS Internals and Data Structures Version 5.2](http://bitsavers.trailing-edge.com/pdf/dec/vax/vms/training/EY-C171E-DP_VMS_Internals_and_Data_Structures_5.2_1991.pdf)
@@ -73,6 +77,8 @@ Today we see that they were only going to win." -- [Nicolás Gómez Dávila](htt
 ## IBM
 
 ### MVS
+
+*MVS Concepts and Facilities* - ISBN 0070326738
 
 ### VM
 
