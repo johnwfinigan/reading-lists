@@ -25,6 +25,7 @@ Today we see that they were only going to win." -- [Nicolás Gómez Dávila](htt
 
 [AOS/VS System Concepts](http://stephenmerrony.co.uk/dg/Docs/DG-Originated/Software/AOS-VS%20System%20Concepts%20093-000335-01.pdf)
 
+[C Language Reference and Runtime Manual](http://stephenmerrony.co.uk/dg/Docs/DG-Originated/Software/093-000264-01_C_Language_Ref_Manual.pdf)
 
 ## Digital Equipment Corporation
 
@@ -58,6 +59,8 @@ Today we see that they were only going to win." -- [Nicolás Gómez Dávila](htt
 
 ## Honeywell / Bull
 
+[Competitive Timesharing Offerings 1979](http://bitsavers.trailing-edge.com/pdf/honeywell/Competitive_Timesharing_Offerings_May79.pdf)
+
 ### GCOS 8 (36 bit)
 
 [Level 66 Series 6000 General Comprehensive Operating Supervisor (GCOS) 1980](http://bitsavers.trailing-edge.com/pdf/honeywell/series60level66/DD19-01_GCOSref.pdf)
@@ -69,6 +72,10 @@ Today we see that they were only going to win." -- [Nicolás Gómez Dávila](htt
 ### Multics
 
 ### CP-6
+
+[CP-6 Concepts and Facilities](http://bitsavers.trailing-edge.com/pdf/honeywell/cp-6/CE26-01_CP-6_Concepts_and_Facilities_Sep80.pdf)
+
+[CP-6 C Language Reference](http://bitsavers.trailing-edge.com/pdf/honeywell/cp-6/HA17-00_CP-6_C_Language_Reference_Jun90.pdf)
 
 ## HP
 
@@ -108,6 +115,12 @@ Today we see that they were only going to win." -- [Nicolás Gómez Dávila](htt
 
 ## Stratus
 
+[Introduction to VOS](http://stratadoc.stratus.com/vos/15.1.1/r001-01/wwhelp/wwhimpl/common/html/r001-01.pdf)
+
+[VOS Reference Manual](http://stratadoc.stratus.com/vos/15.1.1/r002-01/wwhelp/wwhimpl/common/html/r002-01.pdf)
+
+[VOS C Subroutines Manual](http://stratadoc.stratus.com/vos/15.1.1/r068-08/wwhelp/wwhimpl/common/html/r068-08.pdf)
+
 ### VOS
 
 ## Tandem
@@ -115,13 +128,17 @@ Today we see that they were only going to win." -- [Nicolás Gómez Dávila](htt
 ### NonStop
 
 
-## Univac / Sperry Rand / Unisys
+## Univac / Sperry / Unisys
 
-### OS-2200
+### 1100 EXEC (OS-2200)
 
-### CP-6
+[SPERRY UNIVAC Series 1100 Executive System Volume 2 EXEC Level 36R2 Programmer Reference](http://bitsavers.trailing-edge.com/pdf/univac/1100/exec/UP-4144.23_R36r2_Executive_System_Vol_2_Jan80.pdf)
+
+[History and Evolution of 1100/2200 Mainframe Technology](http://bitsavers.trailing-edge.com/pdf/univac/1100/History_and_Evolution_of_1100_2200_Mainframe_Technology_Nov90.pdf)
 
 ### VS/9
+
+### OS3
 
 ## S/360 other
 
@@ -134,7 +151,7 @@ Today we see that they were only going to win." -- [Nicolás Gómez Dávila](htt
 
 ### VS
 
-
+[VS Operating System Services Manual](http://bitsavers.trailing-edge.com/pdf/wang/vs/800-1107OS-03_VS_Operating_System_Services_Aug87.pdf)
 
 
 ## Xerox Data Systems / SDS
