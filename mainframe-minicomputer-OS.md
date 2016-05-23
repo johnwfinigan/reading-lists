@@ -35,18 +35,18 @@ Today we see that they were only going to win." -- [Nicolás Gómez Dávila](htt
 
 *Engineering a Compiler - VAX-11 Code Generation and Optimization* - ISBN 0932376193
 
-[VAX/VMS Internals and Data Structures Version 4.4](http://bitsavers.trailing-edge.com/pdf/dec/vax/vms/training/EY-2279E-UP-0001_VAX_VMS_Internals_Version_4.4_Update_Mar86.pdf)
+[VAX/VMS Internals and Data Structures Version 4.4](http://www.bitsavers.org/pdf/dec/vax/vms/training/EY-2279E-UP-0001_VAX_VMS_Internals_Version_4.4_Update_Mar86.pdf)
 
-[VAX/VMS Internals and Data Structures Version 5.2](http://bitsavers.trailing-edge.com/pdf/dec/vax/vms/training/EY-C171E-DP_VMS_Internals_and_Data_Structures_5.2_1991.pdf)
+[VAX/VMS Internals and Data Structures Version 5.2](http://www.bitsavers.org/pdf/dec/vax/vms/training/EY-C171E-DP_VMS_Internals_and_Data_Structures_5.2_1991.pdf)
 
-[VMS File System Internals](http://bitsavers.trailing-edge.com/pdf/dec/vax/vms/training/EY-F575E-DP_VMS_File_System_Internals_1990.pdf)
+[VMS File System Internals](http://www.bitsavers.org/pdf/dec/vax/vms/training/EY-F575E-DP_VMS_File_System_Internals_1990.pdf)
 
 
 ### PDP-10
 
-[Tenex Executive Manual](http://bitsavers.informatik.uni-stuttgart.de/pdf/bbn/tenex/TenexExecRef_Apr73.pdf)
+[Tenex Executive Manual](http://www.bitsavers.org/pdf/bbn/tenex/TenexExecRef_Apr73.pdf)
 
-[Tenex JSYS Manual](http://bitsavers.informatik.uni-stuttgart.de/pdf/bbn/tenex/TenexJSYSMan_Sep73.pdf)
+[Tenex JSYS Manual](http://www.bitsavers.org/pdf/bbn/tenex/TenexJSYSMan_Sep73.pdf)
 
 ## Siemens / Fujitsu
 
@@ -59,11 +59,11 @@ Today we see that they were only going to win." -- [Nicolás Gómez Dávila](htt
 
 ## Honeywell / Bull
 
-[Competitive Timesharing Offerings 1979](http://bitsavers.trailing-edge.com/pdf/honeywell/Competitive_Timesharing_Offerings_May79.pdf)
+[Competitive Timesharing Offerings 1979](http://www.bitsavers.org/pdf/honeywell/Competitive_Timesharing_Offerings_May79.pdf)
 
 ### GCOS 8 (36 bit)
 
-[Level 66 Series 6000 General Comprehensive Operating Supervisor (GCOS) 1980](http://bitsavers.trailing-edge.com/pdf/honeywell/series60level66/DD19-01_GCOSref.pdf)
+[Level 66 Series 6000 General Comprehensive Operating Supervisor (GCOS) 1980](http://www.bitsavers.org/pdf/honeywell/series60level66/DD19-01_GCOSref.pdf)
 
 ### GCOS 7
 
@@ -73,9 +73,9 @@ Today we see that they were only going to win." -- [Nicolás Gómez Dávila](htt
 
 ### CP-6
 
-[CP-6 Concepts and Facilities](http://bitsavers.trailing-edge.com/pdf/honeywell/cp-6/CE26-01_CP-6_Concepts_and_Facilities_Sep80.pdf)
+[CP-6 Concepts and Facilities](http://www.bitsavers.org/pdf/honeywell/cp-6/CE26-01_CP-6_Concepts_and_Facilities_Sep80.pdf)
 
-[CP-6 C Language Reference](http://bitsavers.trailing-edge.com/pdf/honeywell/cp-6/HA17-00_CP-6_C_Language_Reference_Jun90.pdf)
+[CP-6 C Language Reference](http://www.bitsavers.org/pdf/honeywell/cp-6/HA17-00_CP-6_C_Language_Reference_Jun90.pdf)
 
 ## HP
 
@@ -107,9 +107,9 @@ Today we see that they were only going to win." -- [Nicolás Gómez Dávila](htt
 
 ### PRIMOS
 
-[Advanced Programmers Guide Volume II File System Revision 21.0](http://bitsavers.trailing-edge.com/pdf/prime/doc/DOC10056-1LA_Advanced_Pgmrs_Guide_Vol2_Jul87.pdf)
+[Advanced Programmers Guide Volume II File System Revision 21.0](http://www.bitsavers.org/pdf/prime/doc/DOC10056-1LA_Advanced_Pgmrs_Guide_Vol2_Jul87.pdf)
 
-[Guide to Prime User Documents 1992](http://bitsavers.trailing-edge.com/pdf/prime/doc/DOC13079-2PA_Guide_To_Prime_User_Documents_Jun92.pdf)
+[Guide to Prime User Documents 1992](http://www.bitsavers.org/pdf/prime/doc/DOC13079-2PA_Guide_To_Prime_User_Documents_Jun92.pdf)
 
 [UKY Prime Users Guide](http://ukcc.uky.edu/ukccinfo/391/primeug.html)
 
@@ -133,9 +133,9 @@ Today we see that they were only going to win." -- [Nicolás Gómez Dávila](htt
 
 ### 1100 EXEC (OS-2200)
 
-[SPERRY UNIVAC Series 1100 Executive System Volume 2 EXEC Level 36R2 Programmer Reference](http://bitsavers.trailing-edge.com/pdf/univac/1100/exec/UP-4144.23_R36r2_Executive_System_Vol_2_Jan80.pdf)
+[SPERRY UNIVAC Series 1100 Executive System Volume 2 EXEC Level 36R2 Programmer Reference](http://www.bitsavers.org/pdf/univac/1100/exec/UP-4144.23_R36r2_Executive_System_Vol_2_Jan80.pdf)
 
-[History and Evolution of 1100/2200 Mainframe Technology](http://bitsavers.trailing-edge.com/pdf/univac/1100/History_and_Evolution_of_1100_2200_Mainframe_Technology_Nov90.pdf)
+[History and Evolution of 1100/2200 Mainframe Technology](http://www.bitsavers.org/pdf/univac/1100/History_and_Evolution_of_1100_2200_Mainframe_Technology_Nov90.pdf)
 
 ### VS/9
 
@@ -155,7 +155,7 @@ Today we see that they were only going to win." -- [Nicolás Gómez Dávila](htt
 
 ### VS
 
-[VS Operating System Services Manual](http://bitsavers.trailing-edge.com/pdf/wang/vs/800-1107OS-03_VS_Operating_System_Services_Aug87.pdf)
+[VS Operating System Services Manual](http://www.bitsavers.org/pdf/wang/vs/800-1107OS-03_VS_Operating_System_Services_Aug87.pdf)
 
 
 ## Xerox Data Systems / SDS
