@@ -115,13 +115,14 @@ Today we see that they were only going to win." -- [Nicolás Gómez Dávila](htt
 
 ## Stratus
 
+### VOS
+
 [Introduction to VOS](http://stratadoc.stratus.com/vos/15.1.1/r001-01/wwhelp/wwhimpl/common/html/r001-01.pdf)
 
 [VOS Reference Manual](http://stratadoc.stratus.com/vos/15.1.1/r002-01/wwhelp/wwhimpl/common/html/r002-01.pdf)
 
 [VOS C Subroutines Manual](http://stratadoc.stratus.com/vos/15.1.1/r068-08/wwhelp/wwhimpl/common/html/r068-08.pdf)
 
-### VOS
 
 ## Tandem
 
@@ -144,8 +145,11 @@ Today we see that they were only going to win." -- [Nicolás Gómez Dávila](htt
 
 ### MTS
 
+[The Michigan Terminal System Vol 1](http://www.bitsavers.org/pdf/univOfMichigan/mts/volumes/MTSVol01-TheMichiganTerminalSystem-Nov1991.pdf)
+
 ### Music/SP
 
+[OS and Docs here](http://www.canpub.com/teammpg/de/mcgweb/downloads.htm)
 
 ## Wang
 
